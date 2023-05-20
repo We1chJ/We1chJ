@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🤓 Programmer from [***@LigerBots***](https://github.com/ligerbots)
+- 🤓 Programmer from FRC Team 2877 [***@LigerBots***](https://github.com/ligerbots)
 - 🫥 CTF and Cybersec Enthusiast
 - 🃏 USACO/ACSL/Codeforce/Leetcode/Google Kickstart (RIP) Contestant
 - 💻 Machine Learning and AI Learner
 - 🤞 Arduino/Embedded Software Newbie
+- 😊 Work at [***@KTByte***](https://www.ktbyte.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weq511762338&show_icons=true&theme=transparent)
