@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weq511762338&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/WelchJ?theme=unicorn&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/WelchJ?theme=unicorn&ext=contest&font=ruthie)
