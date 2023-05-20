@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - 😊 Work at [***@KTByte***](https://www.ktbyte.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weq511762338&show_icons=true&theme=transparent)
+![Welch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weq511762338&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weq511762338)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weq511762338&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/WelchJ?theme=unicorn&ext=contest)
