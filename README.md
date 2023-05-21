@@ -2,12 +2,8 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count (Fake)<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/Weq511762338/count.svg">
-  <br>
-  Check this <a href="https://github.com/Weq511762338/page-visit-fake-boost">repo</a> out to see how to fake/boost this👆
-  <br>
-  <b>Visitor count (Real)</b>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Weq511762338">
 </p>
