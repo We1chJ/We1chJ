@@ -27,3 +27,6 @@
 <div align="center"> 
 <img src="https://leetcard.jacoblin.cool/WelchJ?theme=unicorn&ext=contest&font=ruthie">
 </div>
+<div align="center"> 
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=WelchJ">
+</div>
