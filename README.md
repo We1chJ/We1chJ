@@ -18,7 +18,17 @@
 - 🤞 Arduino/Embedded Software Newbie
 - 😊 Work at [***@KTByte***](https://www.ktbyte.com)
 
-<div align="center"> 
+
+### Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,c,cpp,css,discord,github,gradle,html,idea,ai,java,js,linux,md,mysql,processing,py,pytorch,raspberrypi,replit,stackoverflow,tensorflow,vscode," />
+  </a>
+</p>
+
+
+<!-- <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Weq511762338&show_icons=true&theme=radical">
 </div>
 <div align="center"> 
@@ -29,4 +39,4 @@
 </div>
 <div align="center"> 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=WelchJ">
-</div>
+</div> -->
