@@ -11,10 +11,9 @@
 
 ### About Me
 
-- 🤓 Past Programmer from FRC Team 2877 [***@LigerBots***](https://github.com/ligerbots)
 - 🐱‍👤 CTF and Cybersecurity Enthusiast
-- 🃏 USACO/ACSL/Codeforce/Leetcode/Google Kickstart (RIP) Contestant
-- 💻 Machine Learning and AI Learner
+- 🃏 ICPC/USACO/ACSL/Codeforce/Leetcode/Google Kickstart (RIP) Contestant
+- 💻 ML/AI Application Learner
 - 😊 Education Lover at [***@KTByte***](https://www.ktbyte.com)
 
 
